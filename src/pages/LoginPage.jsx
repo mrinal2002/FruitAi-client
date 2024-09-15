@@ -52,7 +52,7 @@ function LoginPage({ setAuth }) {
         }}
       >
         <Typography variant="h4" gutterBottom>
-          Login
+          LOGIN
         </Typography>
         <form onSubmit={handleSubmit}>
           <TextField
