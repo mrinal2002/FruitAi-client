@@ -27,14 +27,14 @@ Fruit.ai is a health management application that offers comprehensive informatio
 
 For demo purposes, the following credentials are available for login:
 
-- **Email**: `user@gmail.com`
-- **Password**: `user321`
+- **Email**: `admin@gmail.com`
+- **Password**: `admin123`
 
 These are hardcoded in the login page.
 
 ## Hosted Links
 
-- **Frontend**: [Fruit.ai on Vercel](https://fruit-ai-pi.vercel.app/login)
+- **Frontend**: [Fruit.ai on Vercel](https://fruitai-mrinal1126.vercel.app/login)
 
 ## Setup Instructions
 
@@ -48,7 +48,7 @@ These are hardcoded in the login page.
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/SouvikDas2002/Fruit.ai-frontend.git
+    git clone https://github.com/mrinal2002/FruitAi-client.git
     ```
 
 2. **Navigate to the frontend directory**:
@@ -116,9 +116,9 @@ These are hardcoded in the login page.
 
 ## Repositories
 
-- **Frontend**: [GitHub Repository](https://github.com/SouvikDas2002/Fruit.ai-frontend.git)
-- **Backend**: [GitHub Repository](https://github.com/SouvikDas2002/Fruit.ai-flask-API)
+- **Frontend**: [GitHub Repository](https://github.com/mrinal2002/FruitAi-client.git)
+- **Backend**: [GitHub Repository](https://github.com/mrinal2002/FruitAi.git)
 
 ## Contact
 
-For any questions or support, feel free to contact me at [dev.souvik2002@gmail.com](mailto:dev.souvik2002@gmail.com).
+For any questions or support, feel free to contact me at [mrinal2002patra@gmail.com](mailto:mrinal2002patra@gmail.com).
